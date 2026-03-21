@@ -1,5 +1,7 @@
 # Magic Cat Magg
 
+![Magic Cat Magg](../data/assets/MagicCatMagg.jpg)
+
 **Type**: Speed
 
 **Rarity**: Orange

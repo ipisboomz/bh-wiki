@@ -1,5 +1,7 @@
 # Megaphone
 
+![Megaphone](../data/assets/Megaphone.jpg)
+
 **Type**: Speed
 
 **Rarity**: Purple

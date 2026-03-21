@@ -1,5 +1,7 @@
 # Emerald Butterfly Queen
 
+![Emerald Butterfly Queen](../data/assets/EmeraldButterflyQueen.jpg)
+
 **Type**: Shield
 
 **Rarity**: Orange

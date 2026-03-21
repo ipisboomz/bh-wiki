@@ -1,5 +1,7 @@
 # Muse
 
+![Muse](../data/assets/Muse.jpg)
+
 **Type**: Attack
 
 **Rarity**: Orange

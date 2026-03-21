@@ -1,5 +1,7 @@
 # Capybara
 
+![Capybara](../data/assets/Capybara.jpg)
+
 **Type**: Attack
 
 **Rarity**: Purple

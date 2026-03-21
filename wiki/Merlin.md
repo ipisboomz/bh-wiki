@@ -1,5 +1,7 @@
 # Merlin
 
+![Merlin](../data/assets/Merlin.jpg)
+
 **Type**: Speed
 
 **Rarity**: Blue

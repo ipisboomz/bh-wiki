@@ -1,5 +1,7 @@
 # Maidy
 
+![Maidy](../data/assets/Maidy.jpg)
+
 **Type**: Speed
 
 **Rarity**: Green

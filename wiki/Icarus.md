@@ -1,5 +1,7 @@
 # Icarus
 
+![Icarus](../data/assets/Icarus.jpg)
+
 **Type**: Shield
 
 **Rarity**: Orange

@@ -1,5 +1,7 @@
 # Flying Wing Wolf
 
+![Flying Wing Wolf](../data/assets/FlyingWingWolf.jpg)
+
 **Type**: Speed
 
 **Rarity**: Orange

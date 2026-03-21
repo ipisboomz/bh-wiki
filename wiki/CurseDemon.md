@@ -1,5 +1,7 @@
 # Curse Demon
 
+![Curse Demon](../data/assets/CurseDemon.jpg)
+
 **Type**: Attack
 
 **Rarity**: Purple

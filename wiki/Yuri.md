@@ -1,5 +1,7 @@
 # Yuri
 
+![Yuri](../data/assets/Yuri.jpg)
+
 **Type**: Shield
 
 **Rarity**: Purple

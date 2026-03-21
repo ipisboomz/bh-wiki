@@ -1,5 +1,7 @@
 # Pull the Slot
 
+![Pull the Slot](../data/assets/PulltheSlot.jpg)
+
 **Type**: Speed
 
 **Rarity**: Orange

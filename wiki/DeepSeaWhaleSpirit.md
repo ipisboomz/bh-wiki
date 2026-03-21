@@ -1,5 +1,7 @@
 # Deep Sea Whale Spirit
 
+![Deep Sea Whale Spirit](../data/assets/DeepSeaWhaleSpirit.jpg)
+
 **Type**: Attack
 
 **Rarity**: Orange

@@ -1,5 +1,7 @@
 # Dragon Horse
 
+![Dragon Horse](../data/assets/DragonHorse.jpg)
+
 **Type**: Attack
 
 **Rarity**: Orange

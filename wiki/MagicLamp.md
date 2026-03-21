@@ -1,5 +1,7 @@
 # Magic Lamp
 
+![Magic Lamp](../data/assets/MagicLamp.jpg)
+
 **Type**: Shield
 
 **Rarity**: Orange

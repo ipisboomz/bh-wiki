@@ -1,5 +1,7 @@
 # Sade
 
+![Sade](../data/assets/Sade.jpg)
+
 **Type**: Attack
 
 **Rarity**: Purple

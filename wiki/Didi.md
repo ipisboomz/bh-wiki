@@ -1,5 +1,7 @@
 # Didi
 
+![Didi](../data/assets/Didi.jpg)
+
 **Type**: Speed
 
 **Rarity**: Purple

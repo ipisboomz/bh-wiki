@@ -1,5 +1,7 @@
 # Rainbow Pony
 
+![Rainbow Pony](../data/assets/RainbowPony.jpg)
+
 **Type**: Shield
 
 **Rarity**: Purple

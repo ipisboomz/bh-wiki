@@ -1,5 +1,7 @@
 # Zarto
 
+![Zarto](../data/assets/Zarto.jpg)
+
 **Type**: Attack
 
 **Rarity**: Purple

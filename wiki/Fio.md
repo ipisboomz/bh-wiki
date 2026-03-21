@@ -1,5 +1,7 @@
 # Fio
 
+![Fio](../data/assets/Fio.jpg)
+
 **Type**: Speed
 
 **Rarity**: Purple

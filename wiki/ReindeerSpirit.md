@@ -1,5 +1,7 @@
 # Reindeer Spirit
 
+![Reindeer Spirit](../data/assets/ReindeerSpirit.jpg)
+
 **Type**: Shield
 
 **Rarity**: Orange

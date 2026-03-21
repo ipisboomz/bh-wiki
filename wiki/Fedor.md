@@ -1,5 +1,7 @@
 # Fedor
 
+![Fedor](../data/assets/Fedor.jpg)
+
 **Type**: Shield
 
 **Rarity**: Blue

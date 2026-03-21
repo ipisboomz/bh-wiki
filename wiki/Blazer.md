@@ -1,5 +1,7 @@
 # Blazer
 
+![Blazer](../data/assets/Blazer.jpg)
+
 **Type**: Attack
 
 **Rarity**: Green

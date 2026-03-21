@@ -1,5 +1,7 @@
 # Rock Spirit
 
+![Rock Spirit](../data/assets/RockSpirit.jpg)
+
 **Type**: Shield
 
 **Rarity**: Purple

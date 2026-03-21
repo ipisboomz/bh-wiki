@@ -1,5 +1,7 @@
 # Grass Spirit
 
+![Grass Spirit](../data/assets/GrassSpirit.jpg)
+
 **Type**: Speed
 
 **Rarity**: Purple

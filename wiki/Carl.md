@@ -1,5 +1,7 @@
 # Carl
 
+![Carl](../data/assets/Carl.jpg)
+
 **Type**: Attack
 
 **Rarity**: Blue

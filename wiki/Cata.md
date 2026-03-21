@@ -1,5 +1,7 @@
 # Cata
 
+![Cata](../data/assets/Cata.jpg)
+
 **Type**: Attack
 
 **Rarity**: Orange
