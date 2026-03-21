@@ -1,6 +1,8 @@
 {
     "key": "Deerspirit",
     "name": "Deer spirit",
+    "type": "Shield",
+    "rarity": "Purple",
     "attributes": {
         "atk": "67",
         "def": "88",

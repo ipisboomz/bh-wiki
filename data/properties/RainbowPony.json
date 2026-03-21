@@ -1,6 +1,8 @@
 {
     "key": "RainbowPony",
     "name": "Rainbow Pony",
+    "type": "Shield",
+    "rarity": "Purple",
     "attributes": {
         "atk": "107",
         "def": "141",

@@ -1,6 +1,8 @@
 {
     "key": "Megaphone",
     "name": "Megaphone",
+    "type": "Speed",
+    "rarity": "Purple",
     "attributes": {
         "atk": "88",
         "def": "44",

@@ -1,6 +1,8 @@
 {
     "key": "EmeraldButterflyQueen",
     "name": "Emerald Butterfly Queen",
+    "type": "Shield",
+    "rarity": "Orange",
     "attributes": {
         "atk": "168",
         "def": "225",

@@ -1,6 +1,8 @@
 {
     "key": "Qbee",
     "name": "Qbee",
+    "type": "Shield",
+    "rarity": "Green",
     "attributes": {
         "atk": "44",
         "def": "70",

@@ -1,6 +1,8 @@
 {
     "key": "Merlin",
     "name": "Merlin",
+    "type": "Speed",
+    "rarity": "Blue",
     "attributes": {
         "atk": "51",
         "def": "68",

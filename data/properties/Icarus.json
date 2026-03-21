@@ -1,6 +1,8 @@
 {
     "key": "Icarus",
     "name": "Icarus",
+    "type": "Shield",
+    "rarity": "Orange",
     "attributes": {
         "atk": "168",
         "def": "292",

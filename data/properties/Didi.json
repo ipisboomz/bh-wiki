@@ -1,6 +1,8 @@
 {
     "key": "Didi",
     "name": "Didi",
+    "type": "Speed",
+    "rarity": "Purple",
     "attributes": {
         "atk": "141",
         "def": "70",

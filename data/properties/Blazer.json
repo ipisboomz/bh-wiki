@@ -1,6 +1,8 @@
 {
     "key": "Blazer",
     "name": "Blazer",
+    "type": "Attack",
+    "rarity": "Green",
     "attributes": {
         "atk": "80",
         "def": "29",

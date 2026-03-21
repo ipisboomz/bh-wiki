@@ -1,6 +1,8 @@
 {
     "key": "Carl",
     "name": "Carl",
+    "type": "Attack",
+    "rarity": "Blue",
     "attributes": {
         "atk": "86",
         "def": "34",

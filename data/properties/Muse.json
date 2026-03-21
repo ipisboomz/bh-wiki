@@ -1,6 +1,8 @@
 {
     "key": "Muse",
     "name": "Muse",
+    "type": "Attack",
+    "rarity": "Orange",
     "attributes": {
         "atk": "326",
         "def": "112",

@@ -1,6 +1,8 @@
 {
     "key": "Capybara",
     "name": "Capybara",
+    "type": "Attack",
+    "rarity": "Purple",
     "attributes": {
         "atk": "177",
         "def": "70",

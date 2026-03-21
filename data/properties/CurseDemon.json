@@ -1,6 +1,8 @@
 {
     "key": "CurseDemon",
     "name": "Curse Demon",
+    "type": "Attack",
+    "rarity": "Purple",
     "attributes": {
         "atk": "98",
         "def": "39",

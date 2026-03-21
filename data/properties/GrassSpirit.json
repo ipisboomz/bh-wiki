@@ -1,6 +1,8 @@
 {
     "key": "GrassSpirit",
     "name": "Grass Spirit",
+    "type": "Speed",
+    "rarity": "Purple",
     "attributes": {
         "atk": "78",
         "def": "39",

@@ -1,6 +1,8 @@
 {
     "key": "Sade",
     "name": "Sade",
+    "type": "Attack",
+    "rarity": "Purple",
     "attributes": {
         "atk": "111",
         "def": "44",

@@ -1,6 +1,8 @@
 {
     "key": "DragonHorse",
     "name": "Dragon Horse",
+    "type": "Attack",
+    "rarity": "Orange",
     "attributes": {
         "atk": "294",
         "def": "112",

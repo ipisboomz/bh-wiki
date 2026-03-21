@@ -1,6 +1,8 @@
 {
     "key": "Cata",
     "name": "Cata",
+    "type": "Attack",
+    "rarity": "Orange",
     "attributes": {
         "atk": "341",
         "def": "112",

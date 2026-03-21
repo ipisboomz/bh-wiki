@@ -1,6 +1,8 @@
 {
     "key": "RockSpirit",
     "name": "Rock Spirit",
+    "type": "Shield",
+    "rarity": "Purple",
     "attributes": {
         "atk": "59",
         "def": "78",

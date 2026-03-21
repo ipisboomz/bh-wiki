@@ -1,6 +1,8 @@
 {
     "key": "Fedor",
     "name": "Fedor",
+    "type": "Shield",
+    "rarity": "Blue",
     "attributes": {
         "atk": "69",
         "def": "34",

@@ -1,6 +1,8 @@
 {
     "key": "Yuri",
     "name": "Yuri",
+    "type": "Shield",
+    "rarity": "Purple",
     "attributes": {
         "atk": "22",
         "def": "33",

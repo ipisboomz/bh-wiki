@@ -1,6 +1,8 @@
 {
     "key": "ReindeerSpirit",
     "name": "Reindeer Spirit",
+    "type": "Shield",
+    "rarity": "Orange",
     "attributes": {
         "atk": "168",
         "def": "225",

@@ -1,6 +1,8 @@
 {
     "key": "MagicLamp",
     "name": "Magic Lamp",
+    "type": "Shield",
+    "rarity": "Orange",
     "attributes": {
         "atk": "168",
         "def": "225",

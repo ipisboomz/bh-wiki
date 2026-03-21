@@ -1,6 +1,8 @@
 {
     "key": "PulltheSlot",
     "name": "Pull the Slot",
+    "type": "Speed",
+    "rarity": "Orange",
     "attributes": {
         "atk": "285",
         "def": "112",

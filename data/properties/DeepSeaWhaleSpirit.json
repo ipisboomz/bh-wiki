@@ -1,6 +1,8 @@
 {
     "key": "DeepSeaWhaleSpirit",
     "name": "Deep Sea Whale Spirit",
+    "type": "Attack",
+    "rarity": "Orange",
     "attributes": {
         "atk": "294",
         "def": "112",

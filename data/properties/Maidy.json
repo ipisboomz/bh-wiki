@@ -1,6 +1,8 @@
 {
     "key": "Maidy",
     "name": "Maidy",
+    "type": "Speed",
+    "rarity": "Green",
     "attributes": {
         "atk": "59",
         "def": "29",

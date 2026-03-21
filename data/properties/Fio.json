@@ -1,6 +1,8 @@
 {
     "key": "Fio",
     "name": "Fio",
+    "type": "Speed",
+    "rarity": "Purple",
     "attributes": {
         "atk": "33",
         "def": "20",
