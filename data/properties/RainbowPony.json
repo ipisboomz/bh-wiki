@@ -1,0 +1,34 @@
+{
+    "key": "RainbowPony",
+    "name": "Rainbow Pony",
+    "attributes": {
+        "atk": "107",
+        "def": "141",
+        "hp": "738",
+        "spd": "121",
+        "mp": "94"
+    },
+    "skills": {
+        "Advanced Gratitude": {
+            "name": "Advanced Gratitude",
+            "mp": "100",
+            "cd": "2",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 42% damage taken by the owner."
+        },
+        "Advanced Support Skill": {
+            "name": "Advanced Support Skill",
+            "mp": "132",
+            "cd": "3",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 48% damage taken by the owner."
+        },
+        "Advanced Strong": {
+            "name": "Advanced Strong",
+            "mp": "0",
+            "cd": "0",
+            "activation": "Passive Effect",
+            "description": "Life limit increased by 35%"
+        }
+    }
+}

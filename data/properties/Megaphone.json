@@ -1,0 +1,34 @@
+{
+    "key": "Megaphone",
+    "name": "Megaphone",
+    "attributes": {
+        "atk": "88",
+        "def": "44",
+        "hp": "205",
+        "spd": "144",
+        "mp": "65"
+    },
+    "skills": {
+        "Advanced Slow Top": {
+            "name": "Advanced Slow Top",
+            "mp": "206",
+            "cd": "5",
+            "activation": "Attack Trigger",
+            "description": "Deal 112% damage to a small area of enemies, with a 100% chance to apply a speed reduction effect for two turns."
+        },
+        "Advanced Theft": {
+            "name": "Advanced Theft",
+            "mp": "132",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Deal 80% damage to a small area of enemies and steal 300 BP from the target to replenish the owner."
+        },
+        "Heartwarming Peak": {
+            "name": "Heartwarming Peak",
+            "mp": "20",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Deal 40% damage to a small area of enemies and reduce their mobility by 6%."
+        }
+    }
+}

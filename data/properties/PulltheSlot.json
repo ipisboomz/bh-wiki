@@ -1,0 +1,20 @@
+{
+    "key": "PulltheSlot",
+    "name": "Pull the Slot",
+    "attributes": {
+        "atk": "285",
+        "def": "112",
+        "hp": "517",
+        "spd": "170",
+        "mp": "216"
+    },
+    "skills": {
+        "Violent Takeover": {
+            "name": "Violent Takeover",
+            "mp": "100",
+            "cd": "2",
+            "activation": "Attack Trigger",
+            "description": "Deal 120% damage, and steal 200 BP and 15 Anger from the enemy for the owner (only effective against players  )"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "key": "ReindeerSpirit",
+    "name": "Reindeer Spirit",
+    "attributes": {
+        "atk": "168",
+        "def": "225",
+        "hp": "1598",
+        "spd": "131",
+        "mp": "111"
+    },
+    "skills": {
+        "Christmas Blessing": {
+            "name": "Christmas Blessing",
+            "mp": "35",
+            "cd": "0",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "When the master is attacked, they bear 45% of the damage."
+        },
+        "Strong Body": {
+            "name": "Strong Body",
+            "mp": "0",
+            "cd": "0",
+            "activation": "Passive Effect",
+            "description": "HP increased by 50%, damage from bullets received by the body reduced by 70%"
+        }
+    }
+}

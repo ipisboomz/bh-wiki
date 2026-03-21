@@ -1,0 +1,20 @@
+{
+    "key": "Qbee",
+    "name": "Qbee",
+    "attributes": {
+        "atk": "44",
+        "def": "70",
+        "hp": "228",
+        "spd": "118",
+        "mp": "62"
+    },
+    "skills": {
+        "Soul Sharing": {
+            "name": "Soul Sharing",
+            "mp": "20",
+            "cd": "1",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 18% damage taken by the owner."
+        }
+    }
+}

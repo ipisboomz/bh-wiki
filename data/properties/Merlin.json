@@ -1,0 +1,27 @@
+{
+    "key": "Merlin",
+    "name": "Merlin",
+    "attributes": {
+        "atk": "51",
+        "def": "68",
+        "hp": "266",
+        "spd": "119",
+        "mp": "63"
+    },
+    "skills": {
+        "Advanced Support Skill": {
+            "name": "Advanced Support Skill",
+            "mp": "132",
+            "cd": "3",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 48% damage taken by the owner."
+        },
+        "Return a favor": {
+            "name": "Return a favor",
+            "mp": "40",
+            "cd": "2",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 25% damage taken by the owner."
+        }
+    }
+}

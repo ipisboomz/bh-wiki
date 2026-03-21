@@ -1,0 +1,20 @@
+{
+    "key": "Maidy",
+    "name": "Maidy",
+    "attributes": {
+        "atk": "59",
+        "def": "29",
+        "hp": "136",
+        "spd": "171",
+        "mp": "63"
+    },
+    "skills": {
+        "Heartwarming Peak": {
+            "name": "Heartwarming Peak",
+            "mp": "20",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Deal 40% damage to a small area of enemies and reduce their mobility by 6%."
+        }
+    }
+}

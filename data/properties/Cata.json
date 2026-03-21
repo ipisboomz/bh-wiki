@@ -1,0 +1,27 @@
+{
+    "key": "Cata",
+    "name": "Cata",
+    "attributes": {
+        "atk": "341",
+        "def": "112",
+        "hp": "691",
+        "spd": "149",
+        "mp": "125"
+    },
+    "skills": {
+        "Fire Without Roots": {
+            "name": "Fire Without Roots",
+            "mp": "130",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Jet Dragon Flame deals 150% base damage to enemies within a 200 range + 20% additional damage based on the current enemy's health (additional damage cap 50000)"
+        },
+        "Dual-phase Dragon Scale": {
+            "name": "Dual-phase Dragon Scale",
+            "mp": "0",
+            "cd": "0",
+            "activation": "Passive Effect",
+            "description": "When taking damage, there is a 50% chance to reduce the damage by 99 %."
+        }
+    }
+}

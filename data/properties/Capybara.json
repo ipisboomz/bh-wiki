@@ -1,0 +1,34 @@
+{
+    "key": "Capybara",
+    "name": "Capybara",
+    "attributes": {
+        "atk": "177",
+        "def": "70",
+        "hp": "437",
+        "spd": "133",
+        "mp": "63"
+    },
+    "skills": {
+        "Adv Burn Strike": {
+            "name": "Adv Burn Strike",
+            "mp": "103",
+            "cd": "5",
+            "activation": "Round Start Trigger",
+            "description": "Deal 160% damage to small area enemies."
+        },
+        "Adv Barb Charge": {
+            "name": "Adv Barb Charge",
+            "mp": "50",
+            "cd": "2",
+            "activation": "Attack Trigger",
+            "description": "Deal 112% damage to medium-range enemies."
+        },
+        "Power Strike": {
+            "name": "Power Strike",
+            "mp": "26",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Deal 80% damage to small area enemies."
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "key": "GrassSpirit",
+    "name": "Grass Spirit",
+    "attributes": {
+        "atk": "78",
+        "def": "39",
+        "hp": "182",
+        "spd": "141",
+        "mp": "64"
+    },
+    "skills": {
+        "Unload Power Top": {
+            "name": "Unload Power Top",
+            "mp": "80",
+            "cd": "5",
+            "activation": "Attack Trigger",
+            "description": "Deal 70% damage to a small area of enemies, with a 75% chance to apply an attack reduction effect for two turns."
+        },
+        "Toxic Gas Top": {
+            "name": "Toxic Gas Top",
+            "mp": "52",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Deal 50% damage to nearby enemies and apply 1 Poisoned effect for 2 turns (The Poisoned effect can deal up to 20000 damage)."
+        },
+        "Adv Nest Core Top": {
+            "name": "Adv Nest Core Top",
+            "mp": "52",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Deal 56% damage to a small area of enemies and reduce their mobility by 8%."
+        }
+    }
+}

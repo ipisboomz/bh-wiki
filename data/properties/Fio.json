@@ -1,0 +1,20 @@
+{
+    "key": "Fio",
+    "name": "Fio",
+    "attributes": {
+        "atk": "33",
+        "def": "20",
+        "hp": "62",
+        "spd": "128",
+        "mp": "63"
+    },
+    "skills": {
+        "Heartwarming Peak": {
+            "name": "Heartwarming Peak",
+            "mp": "20",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Deal 40% damage to a small area of enemies and reduce their mobility by 6%."
+        }
+    }
+}

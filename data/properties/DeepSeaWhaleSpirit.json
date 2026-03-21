@@ -1,0 +1,27 @@
+{
+    "key": "DeepSeaWhaleSpirit",
+    "name": "Deep Sea Whale Spirit",
+    "attributes": {
+        "atk": "294",
+        "def": "112",
+        "hp": "691",
+        "spd": "149",
+        "mp": "185"
+    },
+    "skills": {
+        "Whale Swallow": {
+            "name": "Whale Swallow",
+            "mp": "100",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Attacking the unit with cannonballs deals 170% damage and has a 65% chance to dispel one of the opponent's buffs."
+        },
+        "Ocean Current Blessing": {
+            "name": "Ocean Current Blessing",
+            "mp": "0",
+            "cd": "1",
+            "activation": "Round Start Trigger",
+            "description": "Recover 30 MP at the start of the turn, player recovers 50 BP."
+        }
+    }
+}

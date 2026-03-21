@@ -1,0 +1,27 @@
+{
+    "key": "Carl",
+    "name": "Carl",
+    "attributes": {
+        "atk": "86",
+        "def": "34",
+        "hp": "212",
+        "spd": "127",
+        "mp": "42"
+    },
+    "skills": {
+        "Adv Strike": {
+            "name": "Adv Strike",
+            "mp": "66",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Deal 128% damage to small area enemies."
+        },
+        "Berserker Charge": {
+            "name": "Berserker Charge",
+            "mp": "20",
+            "cd": "2",
+            "activation": "Attack Trigger",
+            "description": "Deal 70% damage to medium-range enemies"
+        }
+    }
+}

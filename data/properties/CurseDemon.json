@@ -1,0 +1,34 @@
+{
+    "key": "CurseDemon",
+    "name": "Curse Demon",
+    "attributes": {
+        "atk": "98",
+        "def": "39",
+        "hp": "243",
+        "spd": "128",
+        "mp": "42"
+    },
+    "skills": {
+        "Power Strike": {
+            "name": "Power Strike",
+            "mp": "26",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Deal 80% damage to small area enemies."
+        },
+        "Berserker Charge": {
+            "name": "Berserker Charge",
+            "mp": "20",
+            "cd": "2",
+            "activation": "Attack Trigger",
+            "description": "Deal 70% damage to medium-range enemies"
+        },
+        "Adv Shockwave": {
+            "name": "Adv Shockwave",
+            "mp": "26",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Deal 80% damage to a large area of enemies."
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "key": "Zarto",
+    "name": "Zarto",
+    "attributes": {
+        "atk": "51",
+        "def": "20",
+        "hp": "70",
+        "spd": "121",
+        "mp": "41"
+    },
+    "skills": {
+        "Shockwave": {
+            "name": "Shockwave",
+            "mp": "10",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Deal 50% damage to a large area of enemies."
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "key": "Icarus",
+    "name": "Icarus",
+    "attributes": {
+        "atk": "168",
+        "def": "292",
+        "hp": "858",
+        "spd": "131",
+        "mp": "113"
+    },
+    "skills": {
+        "Guardian Wings": {
+            "name": "Guardian Wings",
+            "mp": "80",
+            "cd": "2",
+            "activation": "Round Start Trigger",
+            "description": "Spread your wings to generate a Shield, blocking projectiles within a 200 range and reducing damage taken by 65%."
+        },
+        "Supreme Sacrifice": {
+            "name": "Supreme Sacrifice",
+            "mp": "0",
+            "cd": "1",
+            "activation": "When taking damage, trigger",
+            "description": "When defeated, recover other Pets’ 100% MP, 30% HP, and increase Pets’ damage by 30%."
+        }
+    }
+}

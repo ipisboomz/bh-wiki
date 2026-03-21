@@ -1,0 +1,34 @@
+{
+    "key": "Deerspirit",
+    "name": "Deer spirit",
+    "attributes": {
+        "atk": "67",
+        "def": "88",
+        "hp": "342",
+        "spd": "121",
+        "mp": "64"
+    },
+    "skills": {
+        "Adv Guard Skill": {
+            "name": "Adv Guard Skill",
+            "mp": "166",
+            "cd": "4",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 54% damage taken by the owner."
+        },
+        "Advanced Support Skill": {
+            "name": "Advanced Support Skill",
+            "mp": "132",
+            "cd": "3",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 48% damage taken by the owner."
+        },
+        "Soul Sharing": {
+            "name": "Soul Sharing",
+            "mp": "20",
+            "cd": "1",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 18% damage taken by the owner."
+        }
+    }
+}

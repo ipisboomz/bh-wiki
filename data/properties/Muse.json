@@ -1,0 +1,20 @@
+{
+    "key": "Muse",
+    "name": "Muse",
+    "attributes": {
+        "atk": "326",
+        "def": "112",
+        "hp": "691",
+        "spd": "149",
+        "mp": "139"
+    },
+    "skills": {
+        "Echo Melody": {
+            "name": "Echo Melody",
+            "mp": "60",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Emits high-frequency waves, dealing 90% damage to enemies within 500 range."
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "key": "Yuri",
+    "name": "Yuri",
+    "attributes": {
+        "atk": "22",
+        "def": "33",
+        "hp": "104",
+        "spd": "113",
+        "mp": "62"
+    },
+    "skills": {
+        "Soul Sharing": {
+            "name": "Soul Sharing",
+            "mp": "20",
+            "cd": "1",
+            "activation": "When the master takes damage, it triggers.",
+            "description": "Share the 18% damage taken by the owner."
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "key": "Sade",
+    "name": "Sade",
+    "attributes": {
+        "atk": "111",
+        "def": "44",
+        "hp": "273",
+        "spd": "131",
+        "mp": "43"
+    },
+    "skills": {
+        "Adv X-Strike": {
+            "name": "Adv X-Strike",
+            "mp": "83",
+            "cd": "4",
+            "activation": "Attack Trigger",
+            "description": "Deal 144% damage to small area enemies."
+        },
+        "Adv Strike": {
+            "name": "Adv Strike",
+            "mp": "66",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Deal 128% damage to small area enemies."
+        },
+        "Shockwave": {
+            "name": "Shockwave",
+            "mp": "10",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Deal 50% damage to a large area of enemies."
+        }
+    }
+}

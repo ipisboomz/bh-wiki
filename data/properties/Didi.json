@@ -1,0 +1,34 @@
+{
+    "key": "Didi",
+    "name": "Didi",
+    "attributes": {
+        "atk": "141",
+        "def": "70",
+        "hp": "328",
+        "spd": "154",
+        "mp": "115"
+    },
+    "skills": {
+        "Advanced Pickup": {
+            "name": "Advanced Pickup",
+            "mp": "26",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "At the start of the turn, absorb BP within a range of 800 for the owner."
+        },
+        "Adv Poison Top": {
+            "name": "Adv Poison Top",
+            "mp": "132",
+            "cd": "3",
+            "activation": "Attack Trigger",
+            "description": "Deal 80% damage to a small area of enemies and apply 2 Poisoned effects for 2 turns (Poisoned effects can deal up to 20000 damage)."
+        },
+        "Advanced Shrink": {
+            "name": "Advanced Shrink",
+            "mp": "0",
+            "cd": "0",
+            "activation": "Passive Effect",
+            "description": "Reduce attack power by 80%, convert to health."
+        }
+    }
+}
