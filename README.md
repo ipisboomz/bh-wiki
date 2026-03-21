@@ -5,7 +5,7 @@ Welcome to the unofficial BH Wiki. This index is automatically generated.
 ## 📋 Pet List
 
 | Icon | Name | Type | Rarity |
-| :---: | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- |
 | ![Zarto](data/assets/Zarto.jpg) | [Zarto](./wiki/Zarto.md) | Attack | Purple |
 | ![Yuri](data/assets/Yuri.jpg) | [Yuri](./wiki/Yuri.md) | Shield | Purple |
 | ![Fio](data/assets/Fio.jpg) | [Fio](./wiki/Fio.md) | Speed | Purple |
@@ -37,4 +37,4 @@ Welcome to the unofficial BH Wiki. This index is automatically generated.
 | ![Dragon Horse](data/assets/DragonHorse.jpg) | [Dragon Horse](./wiki/DragonHorse.md) | Attack | Orange |
 
 ---
-*Last Updated: 22/03/2026, 2:18:26 am*
+*Last Updated: 22/03/2026, 2:25:00 am*
