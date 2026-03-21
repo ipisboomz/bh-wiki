@@ -20,9 +20,9 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Advanced Slow Top | 206 | undefined | Attack Trigger | Deal 112% damage to a small area of enemies, with a 100% chance to apply a speed reduction effect for two turns. |
-| Advanced Theft | 132 | undefined | Attack Trigger | Deal 80% damage to a small area of enemies and steal 300 BP from the target to replenish the owner. |
-| Heartwarming Peak | 20 | undefined | Attack Trigger | Deal 40% damage to a small area of enemies and reduce their mobility by 6%. |
+| Advanced Slow Top | 206 | 5 | Attack Trigger | Deal 112% damage to a small area of enemies, with a 100% chance to apply a speed reduction effect for two turns. |
+| Advanced Theft | 132 | 3 | Attack Trigger | Deal 80% damage to a small area of enemies and steal 300 BP from the target to replenish the owner. |
+| Heartwarming Peak | 20 | 1 | Attack Trigger | Deal 40% damage to a small area of enemies and reduce their mobility by 6%. |
 
 
 [Home](../README.md)

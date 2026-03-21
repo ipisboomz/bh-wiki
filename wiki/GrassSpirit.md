@@ -20,9 +20,9 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Unload Power Top | 80 | undefined | Attack Trigger | Deal 70% damage to a small area of enemies, with a 75% chance to apply an attack reduction effect for two turns. |
-| Toxic Gas Top | 52 | undefined | Attack Trigger | Deal 50% damage to nearby enemies and apply 1 Poisoned effect for 2 turns (The Poisoned effect can deal up to 20000 damage). |
-| Adv Nest Core Top | 52 | undefined | Attack Trigger | Deal 56% damage to a small area of enemies and reduce their mobility by 8%. |
+| Unload Power Top | 80 | 5 | Attack Trigger | Deal 70% damage to a small area of enemies, with a 75% chance to apply an attack reduction effect for two turns. |
+| Toxic Gas Top | 52 | 3 | Attack Trigger | Deal 50% damage to nearby enemies and apply 1 Poisoned effect for 2 turns (The Poisoned effect can deal up to 20000 damage). |
+| Adv Nest Core Top | 52 | 1 | Attack Trigger | Deal 56% damage to a small area of enemies and reduce their mobility by 8%. |
 
 
 [Home](../README.md)

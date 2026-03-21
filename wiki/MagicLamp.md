@@ -20,8 +20,8 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Three Wishes | 50 | undefined | Round Start Trigger | Grants allied units a shield equal to 25% of the pet's max HP, and increases their Attack by 15% and Damage Reduction by 15% for 2 turns. |
-| Phantom Body | 0 | undefined | Passive Effect | Non-physical bodies will reduce cannon range damage by 75%. |
+| Three Wishes | 50 | 2 | Round Start Trigger | Grants allied units a shield equal to 25% of the pet's max HP, and increases their Attack by 15% and Damage Reduction by 15% for 2 turns. |
+| Phantom Body | 0 | 0 | Passive Effect | Non-physical bodies will reduce cannon range damage by 75%. |
 
 
 [Home](../README.md)

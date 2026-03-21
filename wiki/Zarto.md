@@ -20,7 +20,7 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Shockwave | 10 | undefined | Attack Trigger | Deal 50% damage to a large area of enemies. |
+| Shockwave | 10 | 1 | Attack Trigger | Deal 50% damage to a large area of enemies. |
 
 
 [Home](../README.md)

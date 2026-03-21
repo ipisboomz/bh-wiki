@@ -20,9 +20,9 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Advanced Gratitude | 100 | undefined | When the master takes damage, it triggers. | Share the 42% damage taken by the owner. |
-| Advanced Support Skill | 132 | undefined | When the master takes damage, it triggers. | Share the 48% damage taken by the owner. |
-| Advanced Strong | 0 | undefined | Passive Effect | Life limit increased by 35% |
+| Advanced Gratitude | 100 | 2 | When the master takes damage, it triggers. | Share the 42% damage taken by the owner. |
+| Advanced Support Skill | 132 | 3 | When the master takes damage, it triggers. | Share the 48% damage taken by the owner. |
+| Advanced Strong | 0 | 0 | Passive Effect | Life limit increased by 35% |
 
 
 [Home](../README.md)

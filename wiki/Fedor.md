@@ -20,8 +20,8 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Advanced Theft | 132 | undefined | Attack Trigger | Deal 80% damage to a small area of enemies and steal 300 BP from the target to replenish the owner. |
-| Destruction Top | 52 | undefined | Attack Trigger | Deal 50% damage to nearby enemies and inflict a small amount of armor damage. |
+| Advanced Theft | 132 | 3 | Attack Trigger | Deal 80% damage to a small area of enemies and steal 300 BP from the target to replenish the owner. |
+| Destruction Top | 52 | 3 | Attack Trigger | Deal 50% damage to nearby enemies and inflict a small amount of armor damage. |
 
 
 [Home](../README.md)

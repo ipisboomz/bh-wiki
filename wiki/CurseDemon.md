@@ -20,9 +20,9 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Power Strike | 26 | undefined | Attack Trigger | Deal 80% damage to small area enemies. |
-| Berserker Charge | 20 | undefined | Attack Trigger | Deal 70% damage to medium-range enemies |
-| Adv Shockwave | 26 | undefined | Attack Trigger | Deal 80% damage to a large area of enemies. |
+| Power Strike | 26 | 3 | Attack Trigger | Deal 80% damage to small area enemies. |
+| Berserker Charge | 20 | 2 | Attack Trigger | Deal 70% damage to medium-range enemies |
+| Adv Shockwave | 26 | 1 | Attack Trigger | Deal 80% damage to a large area of enemies. |
 
 
 [Home](../README.md)

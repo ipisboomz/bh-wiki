@@ -20,7 +20,7 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Echo Melody | 60 | undefined | Attack Trigger | Emits high-frequency waves, dealing 90% damage to enemies within 500 range. |
+| Echo Melody | 60 | 1 | Attack Trigger | Emits high-frequency waves, dealing 90% damage to enemies within 500 range. |
 
 
 [Home](../README.md)

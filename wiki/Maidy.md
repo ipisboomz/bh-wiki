@@ -20,7 +20,7 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Heartwarming Peak | 20 | undefined | Attack Trigger | Deal 40% damage to a small area of enemies and reduce their mobility by 6%. |
+| Heartwarming Peak | 20 | 1 | Attack Trigger | Deal 40% damage to a small area of enemies and reduce their mobility by 6%. |
 
 
 [Home](../README.md)

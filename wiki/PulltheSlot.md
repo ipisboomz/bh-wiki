@@ -20,7 +20,7 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Violent Takeover | 100 | undefined | Attack Trigger | Deal 120% damage, and steal 200 BP and 15 Anger from the enemy for the owner (only effective against players  ) |
+| Violent Takeover | 100 | 2 | Attack Trigger | Deal 120% damage, and steal 200 BP and 15 Anger from the enemy for the owner (only effective against players  ) |
 
 
 [Home](../README.md)

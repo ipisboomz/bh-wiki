@@ -20,8 +20,8 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Adv Strike | 66 | undefined | Attack Trigger | Deal 128% damage to small area enemies. |
-| Berserker Charge | 20 | undefined | Attack Trigger | Deal 70% damage to medium-range enemies |
+| Adv Strike | 66 | 3 | Attack Trigger | Deal 128% damage to small area enemies. |
+| Berserker Charge | 20 | 2 | Attack Trigger | Deal 70% damage to medium-range enemies |
 
 
 [Home](../README.md)

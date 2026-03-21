@@ -20,8 +20,8 @@
 
 | Skill | MP | Cooldown | Activation | Description |
 | :--- | ---: | ---: | :--- | :--- |
-| Whale Swallow | 100 | undefined | Attack Trigger | Attacking the unit with cannonballs deals 170% damage and has a 65% chance to dispel one of the opponent's buffs. |
-| Ocean Current Blessing | 0 | undefined | Round Start Trigger | Recover 30 MP at the start of the turn, player recovers 50 BP. |
+| Whale Swallow | 100 | 3 | Attack Trigger | Attacking the unit with cannonballs deals 170% damage and has a 65% chance to dispel one of the opponent's buffs. |
+| Ocean Current Blessing | 0 | 1 | Round Start Trigger | Recover 30 MP at the start of the turn, player recovers 50 BP. |
 
 
 [Home](../README.md)
