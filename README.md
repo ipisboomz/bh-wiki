@@ -6,35 +6,35 @@ Welcome to the unofficial BH Wiki. This index is automatically generated.
 
 | Icon | Name | Type | Rarity |
 | :---: | :--- | :--- | :---: |
-| ![Zarto](./data/icons/Zarto.png) | [**Zarto**](./wiki/Zarto.md) | Attack | Purple |
-| ![Yuri](./data/icons/Yuri.png) | [**Yuri**](./wiki/Yuri.md) | Shield | Purple |
-| ![Fio](./data/icons/Fio.png) | [**Fio**](./wiki/Fio.md) | Speed | Purple |
-| ![Blazer](./data/icons/Blazer.png) | [**Blazer**](./wiki/Blazer.md) | Attack | Green |
-| ![Qbee](./data/icons/Qbee.png) | [**Qbee**](./wiki/Qbee.md) | Shield | Green |
-| ![Maidy](./data/icons/Maidy.png) | [**Maidy**](./wiki/Maidy.md) | Speed | Green |
-| ![Carl](./data/icons/Carl.png) | [**Carl**](./wiki/Carl.md) | Attack | Blue |
-| ![Fedor](./data/icons/Fedor.png) | [**Fedor**](./wiki/Fedor.md) | Shield | Blue |
-| ![Merlin](./data/icons/Merlin.png) | [**Merlin**](./wiki/Merlin.md) | Speed | Blue |
-| ![Curse Demon](./data/icons/CurseDemon.png) | [**Curse Demon**](./wiki/Curse Demon.md) | Attack | Purple |
-| ![Rock Spirit](./data/icons/RockSpirit.png) | [**Rock Spirit**](./wiki/Rock Spirit.md) | Shield | Purple |
-| ![Grass Spirit](./data/icons/GrassSpirit.png) | [**Grass Spirit**](./wiki/Grass Spirit.md) | Speed | Purple |
-| ![Sade](./data/icons/Sade.png) | [**Sade**](./wiki/Sade.md) | Attack | Purple |
-| ![Capybara](./data/icons/Capybara.png) | [**Capybara**](./wiki/Capybara.md) | Attack | Purple |
-| ![Megaphone](./data/icons/Megaphone.png) | [**Megaphone**](./wiki/Megaphone.md) | Speed | Purple |
-| ![Deer spirit](./data/icons/Deerspirit.png) | [**Deer spirit**](./wiki/Deer spirit.md) | Shield | Purple |
-| ![Rainbow Pony](./data/icons/RainbowPony.png) | [**Rainbow Pony**](./wiki/Rainbow Pony.md) | Shield | Purple |
-| ![Didi](./data/icons/Didi.png) | [**Didi**](./wiki/Didi.md) | Speed | Purple |
-| ![Flying Wing Wolf](./data/icons/FlyingWingWolf.png) | [**Flying Wing Wolf**](./wiki/Flying Wing Wolf.md) | Speed | Orange |
-| ![Emerald Butterfly Queen](./data/icons/EmeraldButterflyQueen.png) | [**Emerald Butterfly Queen**](./wiki/Emerald Butterfly Queen.md) | Shield | Orange |
-| ![Muse](./data/icons/Muse.png) | [**Muse**](./wiki/Muse.md) | Attack | Orange |
-| ![Icarus](./data/icons/Icarus.png) | [**Icarus**](./wiki/Icarus.md) | Shield | Orange |
-| ![Deep Sea Whale Spirit](./data/icons/DeepSeaWhaleSpirit.png) | [**Deep Sea Whale Spirit**](./wiki/Deep Sea Whale Spirit.md) | Attack | Orange |
-| ![Pull the Slot](./data/icons/PulltheSlot.png) | [**Pull the Slot**](./wiki/Pull the Slot.md) | Speed | Orange |
-| ![Magic Lamp](./data/icons/MagicLamp.png) | [**Magic Lamp**](./wiki/Magic Lamp.md) | Shield | Orange |
-| ![Cata](./data/icons/Cata.png) | [**Cata**](./wiki/Cata.md) | Attack | Orange |
-| ![Magic Cat Magg](./data/icons/MagicCatMagg.png) | [**Magic Cat Magg**](./wiki/Magic Cat Magg.md) | Speed | Orange |
-| ![Reindeer Spirit](./data/icons/ReindeerSpirit.png) | [**Reindeer Spirit**](./wiki/Reindeer Spirit.md) | Shield | Orange |
-| ![Dragon Horse](./data/icons/DragonHorse.png) | [**Dragon Horse**](./wiki/Dragon Horse.md) | Attack | Orange |
+| ![Zarto](./data/assets/Zarto.png) | [Zarto](./wiki/Zarto.md) | Attack | Purple |
+| ![Yuri](./data/assets/Yuri.png) | [Yuri](./wiki/Yuri.md) | Shield | Purple |
+| ![Fio](./data/assets/Fio.png) | [Fio](./wiki/Fio.md) | Speed | Purple |
+| ![Blazer](./data/assets/Blazer.png) | [Blazer](./wiki/Blazer.md) | Attack | Green |
+| ![Qbee](./data/assets/Qbee.png) | [Qbee](./wiki/Qbee.md) | Shield | Green |
+| ![Maidy](./data/assets/Maidy.png) | [Maidy](./wiki/Maidy.md) | Speed | Green |
+| ![Carl](./data/assets/Carl.png) | [Carl](./wiki/Carl.md) | Attack | Blue |
+| ![Fedor](./data/assets/Fedor.png) | [Fedor](./wiki/Fedor.md) | Shield | Blue |
+| ![Merlin](./data/assets/Merlin.png) | [Merlin](./wiki/Merlin.md) | Speed | Blue |
+| ![Curse Demon](./data/assets/CurseDemon.png) | [Curse Demon](./wiki/CurseDemon.md) | Attack | Purple |
+| ![Rock Spirit](./data/assets/RockSpirit.png) | [Rock Spirit](./wiki/RockSpirit.md) | Shield | Purple |
+| ![Grass Spirit](./data/assets/GrassSpirit.png) | [Grass Spirit](./wiki/GrassSpirit.md) | Speed | Purple |
+| ![Sade](./data/assets/Sade.png) | [Sade](./wiki/Sade.md) | Attack | Purple |
+| ![Capybara](./data/assets/Capybara.png) | [Capybara](./wiki/Capybara.md) | Attack | Purple |
+| ![Megaphone](./data/assets/Megaphone.png) | [Megaphone](./wiki/Megaphone.md) | Speed | Purple |
+| ![Deer spirit](./data/assets/Deerspirit.png) | [Deer spirit](./wiki/Deerspirit.md) | Shield | Purple |
+| ![Rainbow Pony](./data/assets/RainbowPony.png) | [Rainbow Pony](./wiki/RainbowPony.md) | Shield | Purple |
+| ![Didi](./data/assets/Didi.png) | [Didi](./wiki/Didi.md) | Speed | Purple |
+| ![Flying Wing Wolf](./data/assets/FlyingWingWolf.png) | [Flying Wing Wolf](./wiki/FlyingWingWolf.md) | Speed | Orange |
+| ![Emerald Butterfly Queen](./data/assets/EmeraldButterflyQueen.png) | [Emerald Butterfly Queen](./wiki/EmeraldButterflyQueen.md) | Shield | Orange |
+| ![Muse](./data/assets/Muse.png) | [Muse](./wiki/Muse.md) | Attack | Orange |
+| ![Icarus](./data/assets/Icarus.png) | [Icarus](./wiki/Icarus.md) | Shield | Orange |
+| ![Deep Sea Whale Spirit](./data/assets/DeepSeaWhaleSpirit.png) | [Deep Sea Whale Spirit](./wiki/DeepSeaWhaleSpirit.md) | Attack | Orange |
+| ![Pull the Slot](./data/assets/PulltheSlot.png) | [Pull the Slot](./wiki/PulltheSlot.md) | Speed | Orange |
+| ![Magic Lamp](./data/assets/MagicLamp.png) | [Magic Lamp](./wiki/MagicLamp.md) | Shield | Orange |
+| ![Cata](./data/assets/Cata.png) | [Cata](./wiki/Cata.md) | Attack | Orange |
+| ![Magic Cat Magg](./data/assets/MagicCatMagg.png) | [Magic Cat Magg](./wiki/MagicCatMagg.md) | Speed | Orange |
+| ![Reindeer Spirit](./data/assets/ReindeerSpirit.png) | [Reindeer Spirit](./wiki/ReindeerSpirit.md) | Shield | Orange |
+| ![Dragon Horse](./data/assets/DragonHorse.png) | [Dragon Horse](./wiki/DragonHorse.md) | Attack | Orange |
 
 ---
-*Last Updated: 22/03/2026, 2:04:15 am*
+*Last Updated: 22/03/2026, 2:08:23 am*
