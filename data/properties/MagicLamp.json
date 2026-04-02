@@ -16,14 +16,14 @@
             "mp": "50",
             "cd": "2",
             "activation": "Round Start Trigger",
-            "description": "Grants allied units a shield equal to 25% of the pet's max HP, and increases their Attack by 15% and Damage Reduction by 15% for 2 turns."
+            "description": "Grants allied units a shield equal to 50% of the pet's max HP, and increases their Attack by 15% and Damage Reduction by 15% for 2 turns."
         },
         "Phantom Body": {
             "name": "Phantom Body",
             "mp": "0",
             "cd": "0",
             "activation": "Passive Effect",
-            "description": "Non-physical bodies will reduce cannon range damage by 75%."
+            "description": "Non-physical bodies will reduce cannon range damage by 95%."
         }
     }
 }

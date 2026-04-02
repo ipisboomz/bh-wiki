@@ -1,0 +1,29 @@
+{
+    "key": "EasterBunny",
+    "name": "Easter Bunny",
+    "type": "Shield",
+    "rarity": "Orange",
+    "attributes": {
+        "atk": "168",
+        "def": "225",
+        "hp": "1598",
+        "spd": "131",
+        "mp": "111"
+    },
+    "skills": {
+        "Heavy Easter Eqq": {
+            "name": "Heavy Easter Eqq",
+            "mp": "70",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Smash out an easter egg, dealing Damage equal to 100%+50% of Max HP ATK to enemies within 250 range, and Increase DMG by 100% against elite enemies."
+        },
+        "Carnivore": {
+            "name": "Carnivore",
+            "mp": "0",
+            "cd": "0",
+            "activation": "When taking damage, trigger",
+            "description": "Gain 50% damage reduction, 50% maximum HP increase, and 75% attack lifesteal effect."
+        }
+    }
+}

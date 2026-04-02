@@ -1,0 +1,29 @@
+{
+    "key": "QbeeOrange",
+    "name": "Qbee",
+    "type": "Speed",
+    "rarity": "Orange",
+    "attributes": {
+        "atk": "285",
+        "def": "112",
+        "hp": "517",
+        "spd": "232",
+        "mp": "146"
+    },
+    "skills": {
+        "True Heart Snatch Arrow": {
+            "name": "True Heart Snatch Arrow",
+            "mp": "70",
+            "cd": "1",
+            "activation": "Attack Trigger",
+            "description": "Fire a Bow attack on enemies within a range of 150, dealing 150% Damage, with a 75% chance (affected by EFF Hit) to inflict 2 turns of Weak status (Anger gain reduced by 50%)."
+        },
+        "Holy Spirit Body": {
+            "name": "Holy Spirit Body",
+            "mp": "0",
+            "cd": "0",
+            "activation": "When taking damage, trigger",
+            "description": "When attacked by a unit carrying a negative status, reduce that attack's Damage by 95%."
+        }
+    }
+}

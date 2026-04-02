@@ -35,6 +35,8 @@ Welcome to the unofficial BH Wiki. This index is automatically generated.
 | ![Magic Cat Magg](data/assets/MagicCatMagg.jpg) | [Magic Cat Magg](./wiki/MagicCatMagg.md) | Speed | Orange |
 | ![Reindeer Spirit](data/assets/ReindeerSpirit.jpg) | [Reindeer Spirit](./wiki/ReindeerSpirit.md) | Shield | Orange |
 | ![Dragon Horse](data/assets/DragonHorse.jpg) | [Dragon Horse](./wiki/DragonHorse.md) | Attack | Orange |
+| ![Qbee](data/assets/QbeeOrange.jpg) | [Qbee](./wiki/QbeeOrange.md) | Speed | Orange |
+| ![Easter Bunny](data/assets/EasterBunny.jpg) | [Easter Bunny](./wiki/EasterBunny.md) | Shield | Orange |
 
 ---
-*Last Updated: 22/03/2026, 2:25:00 am*
+*Last Updated: 02/04/2026, 10:11:22 pm*
