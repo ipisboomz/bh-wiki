@@ -37,6 +37,7 @@ Welcome to the unofficial BH Wiki. This index is automatically generated.
 | ![Dragon Horse](data/assets/DragonHorse.jpg) | [Dragon Horse](./wiki/DragonHorse.md) | Attack | Orange |
 | ![Qbee](data/assets/QbeeOrange.jpg) | [Qbee](./wiki/QbeeOrange.md) | Speed | Orange |
 | ![Easter Bunny](data/assets/EasterBunny.jpg) | [Easter Bunny](./wiki/EasterBunny.md) | Shield | Orange |
+| ![Snow Queen](data/assets/SnowQueen.jpg) | [Snow Queen](./wiki/SnowQueen.md) | Attack | Orange |
 
 ---
-*Last Updated: 02/04/2026, 10:11:22 pm*
+*Last Updated: 25/04/2026, 4:48:24 pm*
